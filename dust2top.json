@@ -1,0 +1,107 @@
+{
+  	"name":"沙二顶级道具",
+   	"description":"沙二顶级道具)",
+	"update_timestamp": 1607125805,
+   "locations":{
+      "de_dust2":[
+  {
+    "name": ["挂門烟", "挂門烟"],
+    "description": "jump",
+    "weapon": "weapon_smokegrenade",
+    "position": [-621.98950195313, 512.73883056641, 8.6486949920654],
+    "viewangles": [2.7738523483276, 51.900951385498],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["A門火2", "A門火2"],
+    "description": "jump run",
+    "weapon": "weapon_molotov",
+    "position": [1320.3266601563, 1978.5617675781, 1.03125],
+    "viewangles": [1.9349942207336, -93.26683807373],
+    "grenade": {
+      "run": 45,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A門火", "A門火"],
+    "description": "jumprun",
+    "weapon": "weapon_molotov",
+    "position": [1320.6025390625, 2009.3372802734, 1.03125],
+    "viewangles": [2.4849963188171, -93.233741760254],
+    "grenade": {
+      "run": 116,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A大闪", "A大闪"],
+    "description": "jump",
+    "weapon": "weapon_flashbang",
+    "position": [1310.8360595703, 1316.9200439453, 1.03125],
+    "viewangles": [-36.509967803955, 113.37718200684],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Xbox", "Xbox"],
+    "description": "jump",
+    "weapon": "weapon_smokegrenade",
+    "position": [-502.03991699219, -661.28704833984, 127.13845825195],
+    "viewangles": [-6.0228385925293, 84.888145446777],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["中門烟", "中門烟"],
+    "description": "jump",
+    "weapon": "weapon_smokegrenade",
+    "position": [-501.96252441406, -661.27740478516, 127.13922119141],
+    "viewangles": [-2.9037880897522, 86.016494750977],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["电梯火", "电梯火"],
+    "description": "jump",
+    "weapon": "weapon_molotov",
+    "position": [1593.9820556641, 1138.9842529297, 1.3508834838867],
+    "viewangles": [0.70273566246033, 114.10060882568],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["B窗单向火", "B窗单向火"],
+    "weapon": "weapon_molotov",
+    "position": [-1405.9052734375, 2648.1726074219, 125.03125],
+    "viewangles": [23.148904800415, -2.9351491928101]
+  },
+  {
+    "name": ["A門后火", "A門后火"],
+    "description": "jump",
+    "weapon": "weapon_molotov",
+    "position": [740.97009277344, 565.96319580078, 1.3122100830078],
+    "viewangles": [-60.915676116943, 128.42762756348],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["车位火", "车位火"],
+    "description": "slow jump",
+    "weapon": "weapon_molotov",
+    "position": [847.16284179688, 790.01977539063, 47.03125],
+    "viewangles": [4.7240400314331, 52.605278015137],
+    "grenade": {
+      "run": 10,
+      "jump": true,
+      "run_speed": true
+    }
+  }
+]
